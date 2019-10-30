@@ -17,3 +17,28 @@ span[epub|type~="subtitle"]{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+[epub|type~="z3998:letter"]{
+	margin: 1em;
+}
+
+[epub|type~="z3998:letter"] + p,
+p[epub|type~="z3998:salutation"],
+p[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+	font-style: italic;
+}
+
+p[epub|type~="z3998:salutation"],
+p[epub|type~="z3998:valediction"]{
+	font-variant: small-caps;
+}
+
+p[epub|type~="z3998:valediction"],
+[epub|type~="z3998:letter"] footer{
+	text-align: right;
+}
