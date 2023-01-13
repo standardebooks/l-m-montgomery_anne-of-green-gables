@@ -50,7 +50,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Anne of Green Gables&lt;/i&gt; established the career of Canadian writer &lt;a href="https://standardebooks.org/ebooks/l-m-montgomery"&gt;Lucy Maude Montgomery&lt;/a&gt;. When Matthew Cuthbert sends away for an orphan boy to help on his farm, he is surprised to instead meet the captivatingly imaginative Anne Shirley. What ensues is one of the most enduringly popular coming-of-age stories, bringing the pastoral beauty of Prince Edward Island to the world.&lt;/p&gt;
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/45</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100762551</dc:source>
 		<meta property="se:word-count">106482</meta>
