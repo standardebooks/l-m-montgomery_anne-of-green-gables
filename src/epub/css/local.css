@@ -29,3 +29,7 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+blockquote header{
+	font-variant: small-caps;
+}
