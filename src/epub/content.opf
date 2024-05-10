@@ -54,7 +54,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/45</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100762551</dc:source>
 		<meta property="se:word-count">106482</meta>
-		<meta property="se:reading-ease.flesch">81.73</meta>
+		<meta property="se:reading-ease.flesch">81.83</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anne_of_Green_Gables</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-m-montgomery_anne-of-green-gables</meta>
 		<dc:creator id="author">L. M. Montgomery</dc:creator>
