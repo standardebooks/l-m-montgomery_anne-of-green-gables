@@ -47,7 +47,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Anne of Green Gables</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.</dc:abstract>
+		<meta property="schema:abstract">A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Anne of Green Gables&lt;/i&gt; established the career of Canadian writer &lt;a href="https://standardebooks.org/ebooks/l-m-montgomery"&gt;Lucy Maude Montgomery&lt;/a&gt;. When Matthew Cuthbert sends away for an orphan boy to help on his farm, he is surprised to instead meet the captivatingly imaginative Anne Shirley. What ensues is one of the most enduringly popular coming-of-age stories, bringing the pastoral beauty of Prince Edward Island to the world.&lt;/p&gt;
 		</dc:description>
