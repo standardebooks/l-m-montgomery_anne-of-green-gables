@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Anne of Green Gables</dc:title>
 		<meta property="file-as" refines="#title">Anne of Green Gables</meta>
-		<dc:subject id="subject-1">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-2">Domestic fiction</dc:subject>
 		<dc:subject id="subject-3">Autobiographical fiction</dc:subject>
 		<dc:subject id="subject-4">Bildungsromans</dc:subject>
