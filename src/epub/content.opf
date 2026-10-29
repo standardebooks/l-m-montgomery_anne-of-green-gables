@@ -62,7 +62,7 @@
 		<link href="https://github.com/standardebooks/l-m-montgomery_anne-of-green-gables" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">L. M. Montgomery</dc:creator>
 		<meta property="file-as" refines="#author">Montgomery, L. M.</meta>
-		<meta property="schema:alternateName" refines="#author">Lucy Maude Montgomery</meta>
+		<meta property="schema:alternateName" refines="#author">Lucy Maud Montgomery</meta>
 		<link href="https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81018346.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -74,6 +74,7 @@
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-1" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Keller, Charles</meta>
